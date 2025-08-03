@@ -1,0 +1,11 @@
+{
+  "editor:toggle-bold": [],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ]
+}
